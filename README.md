@@ -1,7 +1,7 @@
 # readtextloud
 Creating a `README.md` file for your project is a great way to document what your project does, how to install it, and how to use it. Here’s a template you can use for your project:
 
-```markdown
+
 # Text Reader Project
 
 ## Overview
